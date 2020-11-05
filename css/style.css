@@ -1,0 +1,9 @@
+
+.carousel .item {
+      height: 100px;
+    }
+ .carousel img {
+      min-width: 50%;
+      height: 500px;
+  }
+
