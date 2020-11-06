@@ -17,3 +17,13 @@ svg{
 .nav-link1{
 	margin-left: 30px;
 }
+#one{
+
+    color: red;
+    /* padding-right: 0px; */
+    position: absolute;
+    z-index: 5;
+    right: 820px;
+    font-size: 20px;
+    top: 26px;
+}
