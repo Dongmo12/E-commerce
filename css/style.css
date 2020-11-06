@@ -8,5 +8,12 @@ img{
 .card{
 	background-color: gray;
 }
- 
-	 
+svg{
+	margin-left: 15px;
+}
+.nav-link{
+	margin-left: 40px;
+}
+.nav-link1{
+	margin-left: 30px;
+}
