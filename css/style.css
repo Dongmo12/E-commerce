@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body,
 html {
     width: 100%;
@@ -93,3 +94,35 @@ footer {
 .remove_item_link{
     color:#0000ff;
 }
+=======
+
+img{
+	height: 50px;
+	width: 50px;
+}
+.collapse navbar-collapse{
+	margin-left: 500px;
+}
+.card{
+	background-color:white;
+}
+
+.carousel .item {
+      height: 100px;
+    }
+ .carousel img {
+      min-width: 50%;
+      height: 500px;
+  }
+
+.footer{
+    border: 3px black solid;
+    background-color:#CD853F;
+    border-width: thin;
+}
+.col-md-4 img{
+	width: 200px;
+	height: 200px;
+}
+	 
+>>>>>>> 1508099cda49bc4798496c1df211fd32aa1ea85f
